@@ -49,5 +49,5 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 
 ## Author
-- **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
+- **ItsKartavyaJ* - [Your GitHub Profile](https://github.com/ItsKartavyaJ)
 
