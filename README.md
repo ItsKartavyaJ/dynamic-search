@@ -46,7 +46,8 @@ A simple and elegant web-based search tool that allows users to search for files
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Author
 - **ItsKartavyaJ* - [Your GitHub Profile](https://github.com/ItsKartavyaJ)
